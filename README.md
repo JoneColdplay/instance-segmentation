@@ -8,7 +8,5 @@ To accelerate the training process, we trained the detection and segmentation mo
 resnet50 weight,detection weight and segmentation weight can found in release.
 
 # DataSets file structure
-                   |->mask         
-                   |->test
-DataSets->kaggle-> |->val
-                   |->train
+
+DataSets->kaggle->test/train/val/mask
